@@ -1,5 +1,5 @@
 # Projeto-e-Analise-de-Algortimos
-Trabalho relizado para completar a disciplina Projeto e Análise de Algoritmos
+Trabalho relizado para completar a disciplina Projeto e Análise de Algoritmos <br/>
 O Algoritmo de Dijkstra nos permite encontrar caminhos mais curtos em grafos ponderados, o que é essencial para a otimização de rotas e a tomada de decisões eficientes em diversas áreas. É uma prova do impacto duradouro das contribuições de Edsger W. Dijkstra para a ciência da computação. 
 
 
